@@ -2,7 +2,7 @@ package Bundle::Math::Calculus;
 use strict;
 use warnings;
 
-$VERSION = '1.00';
+$VERSION = '1.01';
 
 1;
 
@@ -37,6 +37,8 @@ Math::Series
 Math::Symbolic
 
 Math::Symbolic::Custom::CCompiler
+
+Math::Symbolic::Custom::ErrorPropagation
 
 Math::Systems
 
